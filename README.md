@@ -23,7 +23,7 @@
     Task: Write a program that solves the two-dimensional thermal conductivity problem using MPI. As always, the efficient disposal of all available computers is critical.
     Authors: Morhunenko Mykola & Yuriy Pasichnyk & Leno Solomia
 ### Before 
-You have to make correct config file located in the root, coled `config.onf` where `[main]` is the block for simulation and `[field-properties]` is properties for field.
+You have to make correct config file located in the root, called `config.onf` where `[main]` is the block for simulation and `[field-properties]` is properties for field.
 more info is in comments in config file.
 
 The default parameters for iron: <br>
