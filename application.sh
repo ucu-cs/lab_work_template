@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# OPTIONAL
+
 # Shell script that can be useful for automation some processes.
 # For example: 
 ###
