@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # OPTIONAL
 
 # Shell script that can be useful for automation some processes.
@@ -17,3 +16,8 @@
 #make
 #cd ../bin/
 #chmod u+x main
+
+
+set -o errexit
+set -o nounset
+set -o pipefail
